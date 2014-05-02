@@ -84,7 +84,7 @@ $totaltime = (microtime(true) - $starttime);
 
 
 // Output the final matched, merged and sorted array.
-echo '<pre style="color: green;">';
+echo '<pre style="color: blue;">';
 print_r($matches_array);
 echo '</pre>';
 
